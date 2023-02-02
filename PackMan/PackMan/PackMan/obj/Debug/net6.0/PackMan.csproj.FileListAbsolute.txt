@@ -1,0 +1,15 @@
+C:\Users\luana\Documents\Projetos\PackMan\PackMan\PackMan\bin\Debug\net6.0\PackMan.exe
+C:\Users\luana\Documents\Projetos\PackMan\PackMan\PackMan\bin\Debug\net6.0\PackMan.deps.json
+C:\Users\luana\Documents\Projetos\PackMan\PackMan\PackMan\bin\Debug\net6.0\PackMan.runtimeconfig.json
+C:\Users\luana\Documents\Projetos\PackMan\PackMan\PackMan\bin\Debug\net6.0\PackMan.dll
+C:\Users\luana\Documents\Projetos\PackMan\PackMan\PackMan\bin\Debug\net6.0\PackMan.pdb
+C:\Users\luana\Documents\Projetos\PackMan\PackMan\PackMan\obj\Debug\net6.0\PackMan.csproj.AssemblyReference.cache
+C:\Users\luana\Documents\Projetos\PackMan\PackMan\PackMan\obj\Debug\net6.0\PackMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luana\Documents\Projetos\PackMan\PackMan\PackMan\obj\Debug\net6.0\PackMan.AssemblyInfoInputs.cache
+C:\Users\luana\Documents\Projetos\PackMan\PackMan\PackMan\obj\Debug\net6.0\PackMan.AssemblyInfo.cs
+C:\Users\luana\Documents\Projetos\PackMan\PackMan\PackMan\obj\Debug\net6.0\PackMan.csproj.CoreCompileInputs.cache
+C:\Users\luana\Documents\Projetos\PackMan\PackMan\PackMan\obj\Debug\net6.0\PackMan.dll
+C:\Users\luana\Documents\Projetos\PackMan\PackMan\PackMan\obj\Debug\net6.0\refint\PackMan.dll
+C:\Users\luana\Documents\Projetos\PackMan\PackMan\PackMan\obj\Debug\net6.0\PackMan.pdb
+C:\Users\luana\Documents\Projetos\PackMan\PackMan\PackMan\obj\Debug\net6.0\PackMan.genruntimeconfig.cache
+C:\Users\luana\Documents\Projetos\PackMan\PackMan\PackMan\obj\Debug\net6.0\ref\PackMan.dll
